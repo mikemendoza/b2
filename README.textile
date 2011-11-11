@@ -72,7 +72,7 @@ The most important of these at the moment is 'modules check' (this will ensure t
     calipso modules disable *mod       : Disable module.
 
     calipso themes list                : List installed themes.
-    calipso themes uninstall *theme    : Remove theme (delete from disk)
+    calipso themes uninstall *theme    : Remove theme (delete from disk).
     calipso themes download *url       : Download (url: http://, gh: cliftonc/calipso-site-theme, repo: calipso-site).
 
 </code></pre>
